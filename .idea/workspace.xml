@@ -32,10 +32,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="344" />
   </component>
   <component name="RunManager">
     <configuration name="APP" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="gui" />
+      <option name="MAIN_CLASS_NAME" value="GUIEvent" />
       <module name="GUI-JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
