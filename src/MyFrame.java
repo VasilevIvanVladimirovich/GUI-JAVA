@@ -66,6 +66,12 @@ public class MyFrame extends JFrame implements ActionListener {
         botton.add(news);
         botton.add(button);
         botton.setBorder(new EmptyBorder(0, 0, 20, 0));
+
+        JMenuBar mb = new JMenuBar();
+        JMenu main = new JMenu("программа");
+        JMenuItem exit = new JMenuItem("выход");
+        main.add(exit);
+        mb.add(main);
         /*JCheckBox check = new JCheckBox("текст чекбокса");
         panel.add(check);
 
